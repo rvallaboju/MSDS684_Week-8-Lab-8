@@ -1,4 +1,12 @@
-# Comprehensive Algorithm Comparison on CartPole-v1
+# Week 8 Lab: Final Integration Project – Option A
+## Comprehensive Algorithm Comparison on CartPole‑v1
+
+**Name:** Ruthika Vallaboju  
+**Course:** MSDS 684 – Reinforcement Learning  
+**Date:** April 2026
+
+
+## Comprehensive Algorithm Comparison on CartPole-v1
 
 This repository contains the code for a comprehensive comparison of three distinct reinforcement learning (RL) algorithms on the classic CartPole-v1 environment. The goal is to evaluate and understand the trade-offs in sample efficiency, variance, and implementation complexity across different RL methodologies, ranging from tabular methods to function approximation techniques.
 
